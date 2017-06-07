@@ -1,0 +1,86 @@
+[{
+  "id": 1,
+  "name": "Eric Couble",
+  "motto": "En froid avec les 🍊",
+  "avatar": "/avatars/eric.jpg"
+}, {
+  "id": 2,
+  "name": "Cédric Marcone",
+  "motto": "Je t'ai vu ce matin ?",
+  "avatar": "/avatars/cedric.jpg"
+}, {
+  "id": 3,
+  "name": "Hélène Girons",
+  "motto": "C'est pas plutôt Saint Couble ?  ",
+  "avatar": "/avatars/helene.jpg"
+}, {
+  "id": 4,
+  "name": "Anouk Stricher",
+  "motto": "Noukette, si t'en as pas t'en achète !",
+  "avatar": "/avatars/anouk.jpg"
+}, {
+  "id": 5,
+  "name": "Charlotle Cazals",
+  "motto": "Ah keskon est serrés au fond de cette boîte",
+  "avatar": "/avatars/charlotte.jpg"
+}, {
+  "id": 6,
+  "name": "Jean Tinland",
+  "motto": "Entre le vélo et moi, c'est la route qui gagne !",
+  "avatar": "/avatars/jean.jpg"
+}, {
+  "id": 7,
+  "name": "Ben Glevarec",
+  "motto": "Il est de quelle couleur ton handspinner ?",
+  "avatar": "/avatars/ben.jpg"
+}, {
+  "id": 8,
+  "name": "Silouane Gerin",
+  "motto": "On se ferait pas une petite cantina ?",
+  "avatar": "/avatars/silouane.jpg"
+}, {
+  "id": 9,
+  "name": "Benjamin Rampon",
+  "motto": "Moins de 100Km ! Ca existe ?",
+  "avatar": "/avatars/benjamin.jpg"
+}, {
+  "id": 10,
+  "name": "Benoit Ponsero",
+  "motto": "Moi j'❤️ PAS les sapins !",
+  "avatar": "/avatars/benoit.jpg"
+}, {
+  "id": 11,
+  "name": "Phi-van Le Guidec",
+  "motto": "Du rhum ou je tue le chien !",
+  "avatar": "/avatars/phivan.jpg"
+}, {
+  "id": 12,
+  "name": "Monique Espinosa",
+  "motto": "En Colombia, ya estarías muerto !",
+  "avatar": "/avatars/monica.jpg"
+}, {
+  "id": 13,
+  "name": "Francis Vanhee",
+  "motto": "Papa since 2016",
+  "avatar": "/avatars/francis.jpg"
+}, {
+  "id": 14,
+  "name": "Antoine Bullifon",
+  "motto": "Buffle, Buffeul, la Machine",
+  "avatar": "/avatars/antoine.jpg"
+}, {
+  "id": 15,
+  "name": "Jean-Michel Le",
+  "motto": "Je crois bien que ça fait 🔟",
+  "avatar": "/avatars/jean-michel.jpg"
+}, {
+  "id": 16,
+  "name": "Thibaut Ramier",
+  "motto": "En vert c'est toujours mieux !",
+  "avatar": "/avatars/thibaut.jpg"
+}, {
+  "id": 17,
+  "name": "Clément Schmitt",
+  "motto": "Une feuille de salade par jour pendant 7 jours avant la pesée",
+  "avatar": "/avatars/clement.jpg"
+}]

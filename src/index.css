@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #fafafa;
+}
+
+.persons {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.person {
+  display: flex;
+  align-items: center;
+  margin: 12px;
+  padding: 12px;
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
+}
+
+.person img {
+  width: 64px;
+  height: 64px;
+  min-width: 64px;
+  border-radius: 50%;
+}
+
+.person > div {
+  overflow: hidden;
+}
+
+.person h1, .person h2 {
+  margin: 0 0 0 12px;
+}
+
+.person h1 {
+  font-size: 18px;
+}
+
+.person h2 {
+  color: #666;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.person button {
+  display: block;
+  position: relative;
+  background-color: #fff;
+  border: none;
+  margin: 0 0 0 auto;
+  padding: 0;
+  width: 35px;
+  height: 35px;
+  min-width: 35px;
+  border-radius: 50%;
+  outline: none;
+  color: #000;
+  transition: all 240ms ease-in-out;
+}
+
+.person button:after {
+  content: "✕";
+  position: absolute;
+  top: 8px;
+  left: 12px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.person button:hover {
+  background-color: #eee;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 1px 6px,
+              rgba(0, 0, 0, 0.12) 0 1px 4px;
+}
+
+.person button:active {
+  color: #fff;
+  background-color: #E91E63;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 1px 6px,
+              rgba(0, 0, 0, 0.12) 0 1px 4px;
+}
