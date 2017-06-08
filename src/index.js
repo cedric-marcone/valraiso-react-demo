@@ -36,6 +36,7 @@ class App extends Component {
         {
           this.state.persons.map(person =>
             <Card
+              key={person.id}
               name={person.name}
               motto={person.motto}
               avatar={person.avatar}
